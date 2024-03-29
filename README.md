@@ -36,5 +36,5 @@ server_port=8088
 ```
 mvn install -DskipTests=true
 
-docker build -t spr-selenium-grid-k8s-autoscaler:1.0 .
+docker build -t selenium-grid-k8s-autoscaler:1.0 .
 ```
