@@ -1,7 +1,7 @@
-package com.spr.k8sSelGrid.schedules;
+package com.auto.k8sSelGrid.schedules;
 
-import com.spr.k8sSelGrid.service.GridConsoleService;
-import com.spr.k8sSelGrid.service.PodScalingService;
+import com.auto.k8sSelGrid.service.GridConsoleService;
+import com.auto.k8sSelGrid.service.PodScalingService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

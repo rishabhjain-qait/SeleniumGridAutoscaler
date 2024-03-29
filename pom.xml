@@ -8,7 +8,7 @@
         <version>2.2.6.RELEASE</version>
         <relativePath/>
     </parent>
-    <groupId>com.spr.k8sSelGrid</groupId>
+    <groupId>com.auto.k8sSelGrid</groupId>
     <artifactId>selenium-grid-k8s-autoscaler</artifactId>
     <version>0.3</version>
     <name>selenium-grid-k8s-autoscaler</name>
@@ -19,7 +19,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>11</java.version>
         <!-- The main class to start by executing "java -jar" -->
-        <start-class>com.spr.k8sSelGrid.SeleniumGridAutoscalerApplication</start-class>
+        <start-class>com.auto.k8sSelGrid.SeleniumGridAutoscalerApplication</start-class>
     </properties>
 
 
@@ -134,16 +134,6 @@
     </build>
 
     <repositories>
-        <repository>
-            <id>thirdparty</id>
-            <url>https://nqa-nexus.sprinklr.com/nexus/content/repositories/thirdparty/</url>
-            <releases>
-                <enabled>true</enabled>
-            </releases>
-            <snapshots>
-                <enabled>false</enabled>
-            </snapshots>
-        </repository>
 
         <repository>
             <id>central</id>

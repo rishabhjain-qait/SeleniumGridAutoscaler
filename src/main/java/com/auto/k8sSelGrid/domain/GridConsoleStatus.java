@@ -1,4 +1,4 @@
-package com.spr.k8sSelGrid.domain;
+package com.auto.k8sSelGrid.domain;
 
 import lombok.Data;
 import lombok.ToString;

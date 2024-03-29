@@ -1,4 +1,4 @@
-package com.spr.k8sSelGrid;
+package com.auto.k8sSelGrid;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
