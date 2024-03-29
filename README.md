@@ -29,7 +29,6 @@ ff_min_scale_limit=1
 k8s_token=<Kubernetes Service Account Token>
 grid_scale_check_frequency_in_sec=10
 grid_daily_cleanup_cron=0 10 10 * * ?
-logging_level_com_spr_k8sSelGrid=DEBUG
 server_port=8088
 ```
 

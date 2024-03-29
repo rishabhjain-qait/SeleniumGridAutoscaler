@@ -1,8 +1,8 @@
-package com.spr.k8sSelGrid.service;
+package com.auto.k8sSelGrid.service;
 
 import com.jayway.jsonpath.JsonPath;
-import com.spr.k8sSelGrid.domain.Grid4NodesInfo;
-import com.spr.k8sSelGrid.domain.GridConsoleStatus;
+import com.auto.k8sSelGrid.domain.Grid4NodesInfo;
+import com.auto.k8sSelGrid.domain.GridConsoleStatus;
 import com.squareup.okhttp.Call;
 import com.squareup.okhttp.MediaType;
 import com.squareup.okhttp.OkHttpClient;

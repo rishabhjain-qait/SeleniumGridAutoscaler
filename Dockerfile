@@ -1,6 +1,6 @@
-FROM prod-nexus.sprinklr.com:8123/spr-centos7-jdk11:latest
+FROM openjdk:11
 
-LABEL maintainer="rishabh.jain@sprinklr.com , ish.abbi@sprinklr.com"
+LABEL maintainer="rishabhans10@gmail.com"
 
 VOLUME /tmp
 

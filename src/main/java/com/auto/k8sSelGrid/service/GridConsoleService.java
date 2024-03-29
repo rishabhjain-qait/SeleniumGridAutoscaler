@@ -1,8 +1,8 @@
-package com.spr.k8sSelGrid.service;
+package com.auto.k8sSelGrid.service;
 
 import com.jayway.jsonpath.JsonPath;
-import com.spr.k8sSelGrid.domain.Grid4NodesInfo;
-import com.spr.k8sSelGrid.domain.GridConsoleStatus;
+import com.auto.k8sSelGrid.domain.Grid4NodesInfo;
+import com.auto.k8sSelGrid.domain.GridConsoleStatus;
 import net.minidev.json.JSONArray;
 import net.minidev.json.parser.JSONParser;
 import net.minidev.json.parser.ParseException;
