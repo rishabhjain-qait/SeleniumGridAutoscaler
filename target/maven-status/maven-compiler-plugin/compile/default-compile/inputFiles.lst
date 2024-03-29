@@ -1,6 +1,0 @@
-/Users/rishahjain01/Documents/selenium-grid-autoscaler/src/main/java/com/spr/k8sSelGrid/schedules/K8sAutoScaleSchedule.java
-/Users/rishahjain01/Documents/selenium-grid-autoscaler/src/main/java/com/spr/k8sSelGrid/domain/Grid4NodesInfo.java
-/Users/rishahjain01/Documents/selenium-grid-autoscaler/src/main/java/com/spr/k8sSelGrid/service/GridConsoleService.java
-/Users/rishahjain01/Documents/selenium-grid-autoscaler/src/main/java/com/spr/k8sSelGrid/domain/GridConsoleStatus.java
-/Users/rishahjain01/Documents/selenium-grid-autoscaler/src/main/java/com/spr/k8sSelGrid/SeleniumGridAutoscalerApplication.java
-/Users/rishahjain01/Documents/selenium-grid-autoscaler/src/main/java/com/spr/k8sSelGrid/service/PodScalingService.java

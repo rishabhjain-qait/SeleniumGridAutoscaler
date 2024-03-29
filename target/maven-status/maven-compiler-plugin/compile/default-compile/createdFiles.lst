@@ -1,7 +1,0 @@
-com/spr/k8sSelGrid/schedules/K8sAutoScaleSchedule.class
-com/spr/k8sSelGrid/service/PodScalingService.class
-com/spr/k8sSelGrid/domain/GridConsoleStatus.class
-com/spr/k8sSelGrid/service/GridConsoleService.class
-com/spr/k8sSelGrid/SeleniumGridAutoscalerApplication.class
-com/spr/k8sSelGrid/service/PodScalingService$1.class
-com/spr/k8sSelGrid/domain/Grid4NodesInfo.class
