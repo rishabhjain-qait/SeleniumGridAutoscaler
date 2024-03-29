@@ -38,8 +38,4 @@ server_port=8088
 mvn install -DskipTests=true
 
 docker build -t spr-selenium-grid-k8s-autoscaler:1.0 .
-
-docker image tag <IMAGE-SHA> prod-nexus.sprinklr.com:8123/selenium-grid-k8s-autoscaler:1.0
-
-docker push prod-nexus.sprinklr.com:8123/selenium-grid-k8s-autoscaler:1.0
 ```
