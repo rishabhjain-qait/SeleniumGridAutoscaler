@@ -22,7 +22,8 @@ k8s_api_url=https://${k8s_host}/apis/apps/v1/namespaces/default/deployments/${de
 ch_max_scale_limit=2
 ff_max_scale_limit=2
 
-# This property will decide the minimum number of browser pods you want to run all the time. Recommended value is 1.
+# This property will decide the minimum number of browser pods you want to run all the time. 
+Recommended value is 1.
 ch_min_scale_limit=1
 ff_min_scale_limit=1
 
