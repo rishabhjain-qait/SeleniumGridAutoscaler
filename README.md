@@ -40,6 +40,9 @@ mvn install -DskipTests=true
 docker build -t selenium-grid-k8s-autoscaler:1.0 .
 ```
 
+if using docker desktop for running k8s use kubernetes.docker.internal:6443 as the host name 
+if using rancher desktop for running k8s use kubernetes.default.svc:443 as the host name
+
 ### k8s api endpoint for autoscaling logic
 
 #### to get pods list - pod ips and name mapping 
